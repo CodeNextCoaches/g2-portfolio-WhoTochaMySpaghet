@@ -1,0 +1,29 @@
+html{
+	box-sizing:border-box;
+}
+*, *:before, *:after{
+	box-sizing: inherit;
+}
+
+
+nav ul {
+	list-style:none;
+}
+nav ul li{
+	display:inline;
+	padding: 10px ; 
+}
+span{
+	float:right;
+}
+.GH{
+	width: 30px;
+}
+.YT{
+	width: 30px;
+}
+p{
+	margin: 0 auto;
+	max-width: 800px;
+}
+
